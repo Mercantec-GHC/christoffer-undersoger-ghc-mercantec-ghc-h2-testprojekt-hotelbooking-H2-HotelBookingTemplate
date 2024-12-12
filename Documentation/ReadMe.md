@@ -1,0 +1,1 @@
+# This folder is used to store documentation for every project in this solution.
